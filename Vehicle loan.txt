@@ -1,0 +1,289 @@
+==================================================
+              VEHICLE LOAN DETAILS
+==================================================
+
+1. BASIC INFORMATION
+---------------------
+
+Loan Type:
+Vehicle Loan
+
+Purpose:
+A vehicle loan is a loan provided by a bank or financial
+institution to help a customer purchase a vehicle.
+
+Common Purposes:
+- Purchase of a new car
+- Purchase of a used car
+- Purchase of a two-wheeler
+- Purchase of a commercial vehicle
+
+
+2. CUSTOMER INFORMATION
+-----------------------
+
+Customer ID:
+Unique identification number of the customer.
+
+Account Holder Name:
+Full name of the loan applicant.
+
+Age:
+Age of the applicant.
+
+Phone Number:
+Registered mobile number.
+
+Email:
+Email address of the applicant.
+
+City:
+City where the applicant lives.
+
+Employment Type:
+- Salaried
+- Self-employed
+- Business owner
+
+Monthly Income:
+Monthly income of the applicant.
+
+Employment Experience:
+Number of years the applicant has been employed.
+
+
+3. VEHICLE INFORMATION
+----------------------
+
+Vehicle Type:
+- Car
+- Bike
+- Scooter
+- Commercial Vehicle
+
+Vehicle Brand:
+Brand or manufacturer of the vehicle.
+
+Vehicle Model:
+Model of the vehicle.
+
+Vehicle Year:
+Manufacturing or registration year.
+
+New or Used:
+- New
+- Used
+
+Vehicle Price:
+Total purchase price of the vehicle.
+
+Dealer Name:
+Name of the vehicle dealer.
+
+
+4. LOAN INFORMATION
+-------------------
+
+Loan Amount:
+Amount borrowed from the bank or financial institution.
+
+Down Payment:
+Amount paid by the customer towards the vehicle purchase.
+
+Loan Tenure:
+Duration for which the loan is taken.
+
+Common Tenures:
+- 1 year
+- 2 years
+- 3 years
+- 4 years
+- 5 years
+- 7 years
+
+Interest Rate:
+Percentage of interest charged on the loan.
+
+Interest Type:
+- Fixed
+- Floating
+
+
+5. EMI INFORMATION
+-------------------
+
+EMI:
+Equated Monthly Instalment.
+
+The borrower normally pays the EMI every month until
+the loan is completely repaid.
+
+EMI consists mainly of:
+- Principal
+- Interest
+
+EMI Formula:
+
+EMI = P * R * (1 + R)^N / ((1 + R)^N - 1)
+
+Where:
+
+P = Loan principal
+R = Monthly interest rate
+N = Number of monthly instalments
+
+
+6. LOAN ELIGIBILITY
+-------------------
+
+Eligibility may depend on:
+
+- Applicant's age
+- Monthly income
+- Employment type
+- Employment stability
+- Credit history
+- Existing loans
+- Existing EMI obligations
+- Vehicle price
+- Loan amount
+- Loan tenure
+- Lender's eligibility criteria
+
+
+7. CREDIT SCORE
+---------------
+
+Credit Score:
+A numerical representation of a person's credit history.
+
+Lenders may consider credit history when evaluating
+a vehicle-loan application.
+
+Credit history may include:
+- Previous loans
+- Credit card payments
+- Repayment history
+- Outstanding debt
+- Late payments
+- Loan defaults
+
+
+8. DOCUMENTS GENERALLY REQUIRED
+-------------------------------
+
+Identity Proof:
+- Aadhaar Card
+- PAN Card
+- Passport
+- Driving Licence
+
+Address Proof:
+- Aadhaar Card
+- Passport
+- Utility Bill
+- Other accepted documents
+
+Income Documents:
+For salaried applicants:
+- Salary slips
+- Bank statements
+- Form 16
+- Income-tax documents
+
+For self-employed applicants:
+- Income-tax returns
+- Business documents
+- Bank statements
+- Financial statements
+
+Vehicle Documents:
+- Vehicle quotation
+- Invoice
+- Registration documents
+- Insurance documents
+- Other documents requested by the lender
+
+
+9. VEHICLE LOAN PROCESS
+-----------------------
+
+Step 1:
+Customer selects a vehicle.
+
+Step 2:
+Customer submits the vehicle-loan application.
+
+Step 3:
+Bank verifies the customer's identity and documents.
+
+Step 4:
+Bank evaluates income, credit history and existing
+financial obligations.
+
+Step 5:
+Bank determines loan eligibility.
+
+Step 6:
+If approved, the bank issues the loan sanction.
+
+Step 7:
+Required loan documentation is completed.
+
+Step 8:
+The loan amount is disbursed according to the
+lender's terms.
+
+Step 9:
+Customer starts paying monthly EMI.
+
+
+10. LOAN STATUS
+---------------
+
+Possible loan statuses:
+
+- Application Submitted
+- Under Verification
+- Documents Pending
+- Under Review
+- Approved
+- Rejected
+- Sanctioned
+- Disbursed
+- Active
+- Closed
+
+
+11. REPAYMENT
+-------------
+
+The customer repays the vehicle loan through monthly
+EMI payments.
+
+Each EMI generally contains:
+
+Principal:
+Amount used to reduce the outstanding loan balance.
+
+Interest:
+Amount charged by the lender for providing the loan.
+
+The outstanding principal generally decreases as
+the borrower makes repayments.
+
+
+12. PREPAYMENT
+--------------
+
+Part Prepayment:
+The borrower pays a portion of the outstanding loan
+before the scheduled repayment date.
+
+Full Prepayment / Foreclosure:
+The borrower pays the entire outstanding loan before
+the original maturity date.
+
+Any applicable charges and conditions depend on the
+loan agreement and lender.
+

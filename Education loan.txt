@@ -1,0 +1,331 @@
+==================================================
+              EDUCATION LOAN DETAILS
+==================================================
+
+1. BASIC INFORMATION
+---------------------
+
+Loan Type:
+Education Loan
+
+Purpose:
+An education loan is a loan provided by a bank or
+financial institution to help students pay for eligible
+education-related expenses.
+
+Common Purposes:
+- Undergraduate education
+- Postgraduate education
+- Diploma courses
+- Professional courses
+- Technical courses
+- Vocational courses
+- Studies in India
+- Studies abroad
+
+
+2. STUDENT INFORMATION
+-----------------------
+
+Student ID:
+Unique identification number of the student.
+
+Student Name:
+Full name of the student.
+
+Date of Birth:
+Date of birth of the student.
+
+Age:
+Age of the student.
+
+Phone Number:
+Registered phone number.
+
+Email:
+Email address of the student.
+
+City:
+City where the student lives.
+
+Academic Qualification:
+Student's current or previous qualification.
+
+Academic Score:
+Percentage, CGPA or other academic performance measure.
+
+
+3. COURSE INFORMATION
+---------------------
+
+Course Name:
+Name of the course being pursued.
+
+Course Type:
+- Undergraduate
+- Postgraduate
+- Diploma
+- Professional
+- Technical
+- Vocational
+
+College / University:
+Name of the educational institution.
+
+Country:
+Country where the institution is located.
+
+Course Duration:
+Total duration of the course.
+
+Admission Status:
+- Applied
+- Admission Confirmed
+- Currently Studying
+
+
+4. CO-APPLICANT INFORMATION
+---------------------------
+
+Co-Applicant Name:
+Name of the parent, guardian or other eligible
+co-applicant.
+
+Relationship:
+Relationship between student and co-applicant.
+
+Co-Applicant Income:
+Monthly or annual income of the co-applicant.
+
+Co-Applicant Employment:
+Employment or occupation of the co-applicant.
+
+The lender may require a co-applicant depending on
+the loan and applicant's circumstances.
+
+
+5. EDUCATION EXPENSES
+---------------------
+
+Tuition Fees:
+Fees charged by the educational institution.
+
+Hostel Fees:
+Cost of accommodation, if applicable.
+
+Examination Fees:
+Fees related to examinations.
+
+Books and Equipment:
+Cost of books, computers, equipment and other
+eligible study materials.
+
+Travel Expenses:
+Eligible travel expenses, where applicable.
+
+Other Expenses:
+Other education-related expenses accepted by
+the lender.
+
+
+6. LOAN INFORMATION
+-------------------
+
+Loan Amount:
+Amount borrowed to finance eligible education
+expenses.
+
+Loan Tenure:
+Total period over which the loan is repaid.
+
+Interest Rate:
+Percentage of interest charged on the loan.
+
+Interest Type:
+- Fixed
+- Floating
+
+Moratorium Period:
+A period during which repayment terms may differ,
+often covering the course period and an additional
+period specified by the lender.
+
+Processing Fee:
+Fee charged by the lender for processing the loan,
+if applicable.
+
+
+7. LOAN ELIGIBILITY
+-------------------
+
+Eligibility may depend on:
+
+- Student's admission status
+- Recognized educational institution
+- Recognized course
+- Academic record
+- Age
+- Co-applicant information
+- Family income
+- Credit history
+- Required documents
+- Loan amount
+- Lender's eligibility criteria
+
+
+8. CREDIT SCORE
+---------------
+
+Credit Score:
+A numerical representation of a person's credit history.
+
+The lender may consider the credit history of the
+applicant and/or co-applicant while evaluating the
+loan application.
+
+Credit history may include:
+
+- Previous loans
+- Credit card payments
+- Repayment history
+- Outstanding debt
+- Late payments
+- Loan defaults
+
+
+9. DOCUMENTS GENERALLY REQUIRED
+-------------------------------
+
+Student Documents:
+- Identity proof
+- Address proof
+- Academic certificates
+- Mark sheets
+- Admission letter
+- Course details
+- Fee structure
+
+Co-Applicant Documents:
+- Identity proof
+- Address proof
+- Income documents
+- Bank statements
+- Employment documents
+
+Other Documents:
+- Loan application form
+- Passport-size photographs
+- Collateral documents, if required
+- Other documents requested by the lender
+
+
+10. EDUCATION LOAN PROCESS
+--------------------------
+
+Step 1:
+Student selects an eligible course and institution.
+
+Step 2:
+Student receives admission confirmation.
+
+Step 3:
+Student submits the education-loan application.
+
+Step 4:
+Required student and co-applicant documents
+are submitted.
+
+Step 5:
+The lender verifies the application and documents.
+
+Step 6:
+The lender evaluates eligibility and repayment
+capacity.
+
+Step 7:
+If approved, the lender issues the loan sanction.
+
+Step 8:
+Required loan documentation is completed.
+
+Step 9:
+The loan amount is disbursed according to the
+lender's terms and eligible expenses.
+
+Step 10:
+Repayment begins according to the agreed repayment
+schedule.
+
+
+11. LOAN STATUS
+---------------
+
+Possible loan statuses:
+
+- Application Submitted
+- Documents Pending
+- Under Verification
+- Under Review
+- Approved
+- Rejected
+- Sanctioned
+- Disbursed
+- Active
+- Closed
+
+
+12. EMI INFORMATION
+-------------------
+
+EMI:
+Equated Monthly Instalment.
+
+After the repayment period begins, the borrower may
+repay the loan through monthly instalments.
+
+EMI generally consists of:
+
+- Principal
+- Interest
+
+EMI Formula:
+
+EMI = P * R * (1 + R)^N / ((1 + R)^N - 1)
+
+Where:
+
+P = Principal loan amount
+R = Monthly interest rate
+N = Number of monthly instalments
+
+
+13. REPAYMENT
+-------------
+
+The borrower repays the education loan according to
+the repayment schedule specified in the loan agreement.
+
+Repayment may depend on:
+
+- Loan amount
+- Interest rate
+- Loan tenure
+- Moratorium arrangement
+- Amount already paid
+- Lender's repayment terms
+
+
+14. PREPAYMENT
+--------------
+
+Part Prepayment:
+The borrower pays a portion of the outstanding loan
+before the scheduled repayment date.
+
+Full Prepayment / Foreclosure:
+The borrower pays the entire outstanding loan before
+the original maturity date.
+
+Applicable charges and conditions depend on the
+loan agreement and lender.
+

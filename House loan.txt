@@ -1,0 +1,289 @@
+==================================================
+              HOUSING LOAN DETAILS
+==================================================
+
+1. BASIC INFORMATION
+---------------------
+
+Loan Type:
+Housing Loan / Home Loan
+
+Purpose:
+A housing loan is a loan provided by a bank or financial
+institution to help a customer purchase, construct, or
+renovate a residential property.
+
+Common Purposes:
+- Purchase of a new house
+- Purchase of an existing house
+- Construction of a house
+- Home renovation
+- Home extension
+
+
+2. CUSTOMER INFORMATION
+-----------------------
+
+Account Holder Name:
+The full name of the person applying for the loan.
+
+Age:
+Age of the applicant.
+
+Phone Number:
+Registered mobile number of the applicant.
+
+Email:
+Email address of the applicant.
+
+City:
+City where the applicant lives.
+
+Employment Type:
+- Salaried
+- Self-employed
+- Business owner
+
+Monthly Income:
+The applicant's monthly income.
+
+Employment Experience:
+Number of years the applicant has been working.
+
+
+3. PROPERTY INFORMATION
+------------------------
+
+Property Type:
+- Apartment
+- Independent House
+- Villa
+- Residential Plot
+
+Property Location:
+Location of the property.
+
+Property Value:
+Total market/purchase value of the property.
+
+Property Ownership:
+Name of the person who owns the property.
+
+Property Age:
+Age of an existing property, if applicable.
+
+
+4. LOAN INFORMATION
+-------------------
+
+Loan Amount:
+Amount borrowed from the bank.
+
+Down Payment:
+Amount paid by the customer from their own funds.
+
+Loan Tenure:
+Duration for which the loan is taken.
+
+Common Tenures:
+- 5 years
+- 10 years
+- 15 years
+- 20 years
+- 25 years
+- 30 years
+
+Interest Rate:
+Percentage of interest charged on the outstanding loan.
+
+Interest Type:
+- Fixed Interest Rate
+- Floating Interest Rate
+
+
+5. EMI INFORMATION
+-------------------
+
+EMI:
+Equated Monthly Instalment.
+
+EMI is the fixed monthly payment made by the borrower
+towards the housing loan.
+
+The EMI generally consists of:
+- Principal component
+- Interest component
+
+EMI Formula:
+
+EMI = P * R * (1 + R)^N / ((1 + R)^N - 1)
+
+Where:
+
+P = Principal loan amount
+R = Monthly interest rate
+N = Number of monthly instalments
+
+
+6. LOAN ELIGIBILITY
+-------------------
+
+Loan eligibility may depend on:
+
+- Applicant's age
+- Monthly income
+- Employment type
+- Employment stability
+- Credit history
+- Existing loans
+- Monthly expenses
+- Property value
+- Loan tenure
+- Bank's eligibility rules
+
+The actual eligible amount is decided by the
+lender after evaluating the applicant.
+
+
+7. CREDIT SCORE
+---------------
+
+Credit Score:
+A numerical indicator used by lenders to assess
+a borrower's credit history.
+
+A stronger credit history may help an applicant
+qualify for better loan terms, subject to the
+lender's policies.
+
+Credit history may include:
+- Previous loans
+- Credit card payments
+- Repayment history
+- Outstanding debts
+- Defaults or late payments
+
+
+8. DOCUMENTS GENERALLY REQUIRED
+-------------------------------
+
+Common documents may include:
+
+Identity Proof:
+- Aadhaar Card
+- PAN Card
+- Passport
+- Driving Licence
+
+Address Proof:
+- Aadhaar Card
+- Passport
+- Utility Bill
+- Other accepted address documents
+
+Income Documents:
+For salaried applicants:
+- Salary slips
+- Bank statements
+- Form 16 / income-tax documents
+
+For self-employed applicants:
+- Income-tax returns
+- Business financial statements
+- Bank statements
+
+Property Documents:
+- Sale agreement
+- Property title documents
+- Approved building plan
+- Property tax documents
+- Other documents requested by the lender
+
+
+9. LOAN PROCESS
+---------------
+
+Step 1:
+Customer submits the housing loan application.
+
+Step 2:
+Bank verifies the applicant's identity and documents.
+
+Step 3:
+Bank evaluates income, employment, credit history,
+existing liabilities and other eligibility factors.
+
+Step 4:
+Bank evaluates the property and its documents.
+
+Step 5:
+If approved, the bank issues a loan sanction.
+
+Step 6:
+Customer completes the required agreement and
+documentation.
+
+Step 7:
+The loan is disbursed according to the lender's
+terms and the stage of the property transaction.
+
+Step 8:
+Customer pays the EMI according to the repayment
+schedule.
+
+
+10. LOAN STATUS
+---------------
+
+Possible loan statuses:
+
+- Application Submitted
+- Under Verification
+- Documents Pending
+- Property Verification
+- Approved
+- Rejected
+- Sanctioned
+- Disbursed
+- Active
+- Closed
+
+
+11. REPAYMENT
+-------------
+
+The borrower normally repays the loan through
+monthly EMI payments.
+
+Each EMI generally contains:
+
+Principal:
+The portion used to reduce the outstanding loan.
+
+Interest:
+The amount charged by the lender for providing
+the loan.
+
+As the outstanding principal decreases, the interest
+portion of the EMI generally decreases and the
+principal portion generally increases, depending on
+the repayment structure.
+
+
+12. PREPAYMENT
+-------------
+
+Prepayment means paying part or all of the outstanding
+loan before the scheduled maturity date.
+
+Types:
+
+Part Prepayment:
+A portion of the outstanding principal is paid early.
+
+Full Prepayment / Foreclosure:
+The entire outstanding loan is paid before maturity.
+
+Applicable charges and conditions depend on the
+loan agreement and lender.
+
